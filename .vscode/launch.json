@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/박초영/Desktop/Datastructure",
-      "program": "c:/Users/박초영/Desktop/Datastructure/build/Debug/outDebug",
+      "cwd": "c:/Users/박초영/Desktop/학교수업/Datastructure",
+      "program": "c:/Users/박초영/Desktop/학교수업/Datastructure/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
